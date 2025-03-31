@@ -4,6 +4,8 @@
  * @description Overrides the zoom level with an arbitrary percentage.
  * @version 0.0.1
  * @authorLink https://github.com/thunderz2016
+ * @source https://github.com/Thunderz2016/BDPlugins/tree/main/CustomZoom
+ * @updateUrl https://raw.githubusercontent.com/Thunderz2016/BDPlugins/refs/heads/main/CustomZoom/CustomZoom.plugin.js
  */
 
 const defaults = {

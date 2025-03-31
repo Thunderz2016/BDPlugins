@@ -1,5 +1,7 @@
-# Custom Zoom
+# BetterDiscord Plugins
 
-Overrides Discord's zoom level with an arbitrary, user-defiend percentage. This zoom level will be multiplied by the zoom level set by Discord in the appearance menu.
+This is a collection of plugins for BetterDiscord.
 
-![screenshot](CustomZoom/images/image.png)
+## Plugins
+
+- [Custom Zoom](https://github.com/Thunderz2016/BDPlugins/tree/main/CustomZoom): Sets an arbitrary zoom level for Discord.
