@@ -26,7 +26,7 @@ module.exports = class CustomZoom {
                 {
                     type: "number",
                     id: "zoom-level",
-                    name: "Zoom Level",
+                    name: "Zoom Level (%)",
                     note: "Enter a zoom level in percentage. Applies automatically.",
                     value: this.settings.zoomLevel,
                     min: 50,
@@ -37,7 +37,7 @@ module.exports = class CustomZoom {
                     type: "switch",
                     id: "allow-unsafe-zoom",
                     name: "Allow Unsafe Zoom Levels",
-                    note: "If enabled, zoom levels smaller than 50% and greater than 200% will be applied.",
+                    note: "If enabled, zoom levels smaller than 50% or greater than 200% will be applied. DANGEROUS! You might need to delete the config file in the plugins folder to reset to default.",
                     value: this.settings.allowUnsafeZoom,
                 },
             ],
