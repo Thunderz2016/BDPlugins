@@ -1,7 +1,7 @@
 /**
  * @name CustomZoom
  * @author Thunderz2016
- * @description Overrides the zoom level with an arbitrary percentage.
+ * @description Applies an arbitrary CSS zoom level.
  * @version 0.0.1
  * @authorLink https://github.com/thunderz2016
  * @source https://github.com/Thunderz2016/BDPlugins/tree/main/CustomZoom
